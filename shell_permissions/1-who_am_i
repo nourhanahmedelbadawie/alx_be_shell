@@ -1,2 +1,3 @@
-whoami
+#!/bin/bash
+root
 chmod +x 1-who_am_i
